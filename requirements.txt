@@ -6,3 +6,13 @@ google.generativeai
 anthropic
 gradio
 ipywidgets
+huggingface_hub
+transformers
+langchain-openai
+langchain_experimental
+langchain_chroma
+langchain[docarray]
+scikit-learn
+plotly
+faiss-cpu
+matplotlib
