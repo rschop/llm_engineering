@@ -16,3 +16,8 @@ scikit-learn
 plotly
 faiss-cpu
 matplotlib
+firecrawl-py
+playwright
+datasets
+pypdf
+gensim
